@@ -1,13 +1,28 @@
 # The-Hotel-Bookings-Data
-El siguiente repositorio contiene el analisis del dataset de Hotel Bokings Data para realizar una prediccion de si las reservas son con o sin niños
+Este repositorio presenta un análisis detallado del conjunto de datos de Reservas de Hoteles, con el objetivo de predecir si las reservas incluyen o no a niños.
 
-Uno de los hoteles (H1) es un hotel resort y el otro es un hotel urbano (H2). Ambos conjuntos de datos comparten la misma estructura, con 23 variables que describen las 19248 observaciones de H1 y 30752 observaciones de H2. Cada observación representa una reserva de hotel. Ambos conjuntos de datos comprenden las reservas que llegarán entre el 1 de julio de 2015 y el 31 de agosto de 2017, incluidas las reservas que efectivamente llegaron y las reservas que fueron canceladas. Dado que se trata de datos reales del hotel, se eliminaron todos los elementos de datos relacionados con la identificación del hotel o del cliente.
-Objetivos
-Realizar un análisis de datos exploratorio que resalte los hallazgos clave:
-Verificación de la calidad de los datos: debe verificar la calidad del conjunto de datos proporcionado para evaluar qué tan apropiado es para tareas posteriores de ciencia de datos. Proponer un conjunto de acciones correctivas sobre los datos, en su caso.
-Informe de conocimientos y conclusiones: describa los resultados obtenidos durante el análisis exploratorio y proporcione conclusiones desde una perspectiva empresarial, respaldadas por gráficos/tablas/métricas.
-En la Parte II, debe definir y entrenar un modelo para predecir qué estadías reales en hoteles incluyeron niños/bebés y cuáles no:
-Extracción de características: Indique algunos posibles candidatos de características que podrían describir adecuadamente los hoteles, ya sea a partir de las columnas dadas o de sus transformaciones.
-Modelado de Machine Learning: al menos un modelo ajustado con los datos proporcionados. Podrías usar la columna de niños como objetivo.
+Contexto:
+
+El conjunto de datos se divide en dos hoteles: un hotel resort (H1) y un hotel urbano (H2).
+Ambos comparten una estructura de datos similar, con 23 variables que describen las reservas.
+Incluye 19,248 observaciones para H1 y 30,752 observaciones para H2, representando reservas de hotel entre julio de 2015 y agosto de 2017.
+Consideraciones:
+
+Las observaciones abarcan tanto reservas que llegaron como reservas canceladas.
+Se han eliminado datos de identificación de hotel o cliente para garantizar la privacidad.
+Objetivos de la Presentación:
+
+Análisis Exploratorio de Datos:
+
+Evaluación de la calidad de los datos.
+Acciones correctivas propuestas para mejorar la calidad del conjunto de datos.
+Informe de Conclusiones:
+
+Destacar hallazgos clave durante el análisis exploratorio.
+Ofrecer conclusiones respaldadas por gráficos, tablas y métricas desde una perspectiva empresarial.
+Predicción de la Inclusión de Niños en las Reservas:
+
+Identificación de características potenciales para describir adecuadamente los hoteles y reservas.
+Entrenamiento de al menos un modelo de Machine Learning utilizando la columna de niños como objetivo.
 
 
